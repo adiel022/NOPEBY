@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent"
+    android:padding="8dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+    <ImageButton
+        android:id="@+id/b1"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@drawable/copiar"
+        android:layout_marginLeft="5dp"/>
+
+        <ImageButton
+            android:id="@+id/b2"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/camara"
+            android:layout_marginLeft="5dp"/>
+
+        <ImageButton
+            android:id="@+id/b3"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/navegar_adelante"
+            android:layout_marginLeft="5dp"/>
+
+        <ImageButton
+            android:id="@+id/b4"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/navega_atras"
+            android:layout_marginLeft="5dp"/>
+
+        <ImageButton
+            android:id="@+id/b5"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/borrar"
+            android:layout_marginLeft="5dp"/>
+
+
+
+    </LinearLayout>
+</FrameLayout>

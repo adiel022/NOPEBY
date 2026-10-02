@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema base de tu app -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Pantalla completa -->
+        <item name="android:windowFullscreen">true</item>
+
+        <!-- Ocultar barra de título -->
+        <item name="windowNoTitle">true</item>
+
+        <!-- Barra de estado transparente (solo API 21+) -->
+        <item name="android:statusBarColor" tools:targetApi="21">
+            @android:color/transparent
+        </item>
+    </style>
+
+    <!-- Versión fullscreen total (immersive mode) -->
+    <style name="AppTheme.Fullscreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowNoTitle">true</item>
+
+        <!-- Solo API 21+ -->
+        <item name="android:statusBarColor" tools:targetApi="21">
+            @android:color/transparent
+        </item>
+
+        <!-- Solo API 21+ -->
+        <item name="android:navigationBarColor" tools:targetApi="21">
+            @android:color/transparent
+        </item>
+    </style>
+
+</resources>

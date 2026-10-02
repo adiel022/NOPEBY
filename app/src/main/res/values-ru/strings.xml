@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOPEBY</string>
+    <string name="comunidad">СООБЩЕСТВО</string>
+    <string name="guardar">Сохранить Проект</string>
+    <string name="huesos">КОСТИ</string>
+    <string name="importar">ИМПОРТ</string>
+    <string name="intencidadluz">Интенсивность Света</string>
+    <string name="intencidadsombra">Интенсивность Тени</string>
+    <string name="lluvia">Дождь</string>
+    <string name="luz">СВЕТ</string>
+    <string name="mas">ЕЩЁ</string>
+    <string name="mejoras">ОБНОВЛЕНИЯ И ОШИБКИ</string>
+    <string name="mundo">Мир</string>
+    <string name="nieve">Снег</string>
+    <string name="nombre_proyecto">НАЗВАНИЕ ПРОЕКТА</string>
+    <string name="nuevo_proyecto">НОВЫЙ ПРОЕКТ</string>
+    <string name="objetos">ОБЪЕКТЫ</string>
+    <string name="particulas">Частицы</string>
+    <string name="produccion">Создать Видео</string>
+    <string name="proyectos">ПРОЕКТЫ</string>
+    <string name="shader">Редактировать Шейдер</string>
+    <string name="shaderdos">Без Тейни</string>
+    <string name="shadertres">Аниме Шейдер</string>
+    <string name="shaderuno">Реалистичный Шейдер</string>
+    <string name="configuracionluzrgb">Настройка Света</string>
+    <string name="configuracionsombrargb">Настройка Тени</string>
+    <string name="intencidadluzdos">Интенсивность Света</string>
+    <string name="intencidadsombrados">Интенсивность Тени</string>
+    <string name="animar">АНИМАЦИЯ</string>
+    <string name="editarobjetos">Редактировать Объект</string>
+    <string name="trasladacionx">Смещение X</string>
+    <string name="trasladaciony">Смещение Y</string>
+    <string name="trasladacionz">Смещение Z</string>
+    <string name="rotadox">Вращение X</string>
+    <string name="rotadoy">Вращение Y</string>
+    <string name="rotadoz">Вращение Z</string>
+    <string name="escaladox">Масштаб X</string>
+    <string name="escaladoy">Масштаб Y</string>
+    <string name="escaladoz">Масштаб Z</string>
+    <string name="creartexturas">Создать Текстуры</string>
+    <string name="cerrarnoguardar">Закрыть Без Сохранения</string>
+    <string name="texturas">Текстуры</string>
+    <string name="normales">Карта Нормалей (.png)</string>
+</resources>

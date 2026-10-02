@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOPEBY</string>
+    <string name="comunidad">커뮤니티</string>
+    <string name="guardar">프로젝트 저장</string>
+    <string name="huesos">뼈대 (본)</string>
+    <string name="importar">가져오기</string>
+    <string name="intencidadluz">조명 강도</string>
+    <string name="intencidadsombra">그림자 강도</string>
+    <string name="lluvia">비</string>
+    <string name="luz">조명</string>
+    <string name="mas">더보기</string>
+    <string name="mejoras">업데이트 및 버그</string>
+    <string name="mundo">월드</string>
+    <string name="nieve">눈</string>
+    <string name="nombre_proyecto">프로젝트 이름</string>
+    <string name="nuevo_proyecto">새 프로젝트</string>
+    <string name="objetos">오브젝트</string>
+    <string name="particulas">파티클</string>
+    <string name="produccion">비디오 생성</string>
+    <string name="proyectos">프로젝트 목록</string>
+    <string name="shader">셰이더 편집</string>
+    <string name="shaderdos">그림자 없음</string>
+    <string name="shadertres">애니메이션 셰이더</string>
+    <string name="shaderuno">리얼리스틱 셰이더</string>
+    <string name="configuracionluzrgb">조명 설정</string>
+    <string name="configuracionsombrargb">그림자 설정</string>
+    <string name="intencidadluzdos">조명 강도</string>
+    <string name="intencidadsombrados">그림자 강도</string>
+    <string name="animar">애니메이션</string>
+    <string name="editarobjetos">오브젝트 편집</string>
+    <string name="trasladacionx">이동 X</string>
+    <string name="trasladaciony">이동 Y</string>
+    <string name="trasladacionz">이동 Z</string>
+    <string name="rotadox">회전 X</string>
+    <string name="rotadoy">회전 Y</string>
+    <string name="rotadoz">회전 Z</string>
+    <string name="escaladox">크기 X</string>
+    <string name="escaladoy">크기 Y</string>
+    <string name="escaladoz">크기 Z</string>
+    <string name="creartexturas">텍스처 생성</string>
+    <string name="cerrarnoguardar">저장하지 않고 닫기</string>
+    <string name="texturas">텍스처</string>
+    <string name="normales">노멀 맵 (.png)</string>
+</resources>

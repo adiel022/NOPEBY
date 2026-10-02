@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOPEBY</string>
+    <string name="comunidad">المجتمع</string>
+    <string name="guardar">حفظ المشروع</string>
+    <string name="huesos">العظام</string>
+    <string name="importar">استيراد</string>
+    <string name="intencidadluz">شدة الإضاءة</string>
+    <string name="intencidadsombra">شدة الظل</string>
+    <string name="lluvia">مطر</string>
+    <string name="luz">الإضاءة</string>
+    <string name="mas">المزيد</string>
+    <string name="mejoras">التحديثات والإصلاحات</string>
+    <string name="mundo">العالم</string>
+    <string name="nieve">ثلج</string>
+    <string name="nombre_proyecto">اسم المشروع</string>
+    <string name="nuevo_proyecto">مشروع جديد</string>
+    <string name="objetos">العناصر</string>
+    <string name="particulas">جزيئات</string>
+    <string name="produccion">إنشاء فيديو</string>
+    <string name="proyectos">المشاريع</string>
+    <string name="shader">تعديل المظلل</string>
+    <string name="shaderdos">بدون ظل</string>
+    <string name="shadertres">مظلل أنيمي</string>
+    <string name="shaderuno">مظلل واقعي</string>
+    <string name="configuracionluzrgb">إعداد الضوء</string>
+    <string name="configuracionsombrargb">إعداد الظل</string>
+    <string name="intencidadluzdos">شدة الإضاءة</string>
+    <string name="intencidadsombrados">شدة الظل</string>
+    <string name="animar">تحريك</string>
+    <string name="editarobjetos">تعديل العناصر</string>
+    <string name="trasladacionx">إزاحة X</string>
+    <string name="trasladaciony">إزاحة Y</string>
+    <string name="trasladacionz">إزاحة Z</string>
+    <string name="rotadox">تدوير X</string>
+    <string name="rotadoy">تدوير Y</string>
+    <string name="rotadoz">تدوير Z</string>
+    <string name="escaladox">حجم X</string>
+    <string name="escaladoy">حجم Y</string>
+    <string name="escaladoz">حجم Z</string>
+    <string name="creartexturas">إنشاء خامات</string>
+    <string name="cerrarnoguardar">إغلاق دون حفظ</string>
+    <string name="texturas">الخامات</string>
+    <string name="normales">خريطة التضاريس (.png)</string>
+</resources>

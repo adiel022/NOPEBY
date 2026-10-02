@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOPEBY</string>
+    <string name="comunidad">קהילה</string>
+    <string name="guardar">שמור פרויקט</string>
+    <string name="huesos">עצמות</string>
+    <string name="importar">ייבוא</string>
+    <string name="intencidadluz">עוצמת תאורה</string>
+    <string name="intencidadsombra">עוצמת צל</string>
+    <string name="lluvia">גשם</string>
+    <string name="luz">תאורה</string>
+    <string name="mas">עוד</string>
+    <string name="mejoras">עדכונים ותיקונים</string>
+    <string name="mundo">עולם</string>
+    <string name="nieve">שלג</string>
+    <string name="nombre_proyecto">שם הפרויקט</string>
+    <string name="nuevo_proyecto">פרויקט חדש</string>
+    <string name="objetos">אובייקטים</string>
+    <string name="particulas">חלקיקים</string>
+    <string name="produccion">צור וידאו</string>
+    <string name="proyectos">פרויקטים</string>
+    <string name="shader">ערוך שיידר</string>
+    <string name="shaderdos">ללא צל</string>
+    <string name="shadertres">שיידר אנימה</string>
+    <string name="shaderuno">שיידר ריאליסטי</string>
+    <string name="configuracionluzrgb">הגדרות אור</string>
+    <string name="configuracionsombrargb">הגדרות צל</string>
+    <string name="intencidadluzdos">עוצמת תאורה</string>
+    <string name="intencidadsombrados">עוצמת צל</string>
+    <string name="animar">הנפש</string>
+    <string name="editarobjetos">ערוך אובייקטים</string>
+    <string name="trasladacionx">הזזה X</string>
+    <string name="trasladaciony">הזזה Y</string>
+    <string name="trasladacionz">הזזה Z</string>
+    <string name="rotadox">סיבוב X</string>
+    <string name="rotadoy">סיבוב Y</string>
+    <string name="rotadoz">סיבוב Z</string>
+    <string name="escaladox">קנה מידה X</string>
+    <string name="escaladoy">קנה מידה Y</string>
+    <string name="escaladoz">קנה מידה Z</string>
+    <string name="creartexturas">צור טקסטורות</string>
+    <string name="cerrarnoguardar">סגור ללא שמירה</string>
+    <string name="texturas">טקסטורות</string>
+    <string name="normales">מפת נורמלים (.png)</string>
+</resources>

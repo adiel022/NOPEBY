@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOPEBY</string>
+    <string name="comunidad">GEMENSKAP</string>
+    <string name="guardar">Spara Projekt</string>
+    <string name="huesos">BEN</string>
+    <string name="importar">IMPORTERA</string>
+    <string name="intencidadluz">Ljusintensitet</string>
+    <string name="intencidadsombra">Skuggintensitet</string>
+    <string name="lluvia">Regn</string>
+    <string name="luz">LJUS</string>
+    <string name="mas">MER</string>
+    <string name="mejoras">UPPDATERINGAR &amp; FELLOGG</string>
+    <string name="mundo">Värld</string>
+    <string name="nieve">Snö</string>
+    <string name="nombre_proyecto">PROJEKTNAMN</string>
+    <string name="nuevo_proyecto">NYTT PROJEKT</string>
+    <string name="objetos">OBJEKT</string>
+    <string name="particulas">Partiklar</string>
+    <string name="produccion">Skapa Video</string>
+    <string name="proyectos">PROJEKT</string>
+    <string name="shader">Redigera Shader</string>
+    <string name="shaderdos">Utan Skugga</string>
+    <string name="shadertres">Anime Shader</string>
+    <string name="shaderuno">Realistisk Shader</string>
+    <string name="configuracionluzrgb">Konfigurera Ljus</string>
+    <string name="configuracionsombrargb">Konfigurera Skugga</string>
+    <string name="intencidadluzdos">Ljusintensitet</string>
+    <string name="intencidadsombrados">Skuggintensitet</string>
+    <string name="animar">ANIMERA</string>
+    <string name="editarobjetos">Redigera Objekt</string>
+    <string name="trasladacionx">Förskjutning X</string>
+    <string name="trasladaciony">Förskjutning Y</string>
+    <string name="trasladacionz">Förskjutning Z</string>
+    <string name="rotadox">Rrotation X</string>
+    <string name="rotadoy">Rotation Y</string>
+    <string name="rotadoz">Rotation Z</string>
+    <string name="escaladox">Skala X</string>
+    <string name="escaladoy">Skala Y</string>
+    <string name="escaladoz">Skala Z</string>
+    <string name="creartexturas">Skapa Texturer</string>
+    <string name="cerrarnoguardar">Stäng Utan Att Spara</string>
+    <string name="texturas">Texturer</string>
+    <string name="normales">Normaldata (.png)</string>
+</resources>

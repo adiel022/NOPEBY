@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOPEBY</string>
+    <string name="comunidad">コミュニティ</string>
+    <string name="guardar">プロジェクトを保存</string>
+    <string name="huesos">ボーン</string>
+    <string name="importar">インポート</string>
+    <string name="intencidadluz">光の強度</string>
+    <string name="intencidadsombra">影の強度</string>
+    <string name="lluvia">雨</string>
+    <string name="luz">ライティング</string>
+    <string name="mas">詳細</string>
+    <string name="mejoras">更新とバグ</string>
+    <string name="mundo">ワールド</string>
+    <string name="nieve">雪</string>
+    <string name="nombre_proyecto">プロジェクト名</string>
+    <string name="nuevo_proyecto">新規プロジェクト</string>
+    <string name="objetos">オブジェクト</string>
+    <string name="particulas">パーティクル</string>
+    <string name="produccion">動画を作成</string>
+    <string name="proyectos">プロジェクト一覧</string>
+    <string name="shader">シェーダー編集</string>
+    <string name="shaderdos">影なし</string>
+    <string name="shadertres">アニメシェーダー</string>
+    <string name="shaderuno">リアルシェーダー</string>
+    <string name="configuracionluzrgb">光の設定</string>
+    <string name="configuracionsombrargb">影の設定</string>
+    <string name="intencidadluzdos">光の強度</string>
+    <string name="intencidadsombrados">影の強度</string>
+    <string name="animar">アニメーション</string>
+    <string name="editarobjetos">オブジェクト編集</string>
+    <string name="trasladacionx">移動 X</string>
+    <string name="trasladaciony">移動 Y</string>
+    <string name="trasladacionz">移動 Z</string>
+    <string name="rotadox">回転 X</string>
+    <string name="rotadoy">回転 Y</string>
+    <string name="rotadoz">回転 Z</string>
+    <string name="escaladox">拡大縮小 X</string>
+    <string name="escaladoy">拡大縮小 Y</string>
+    <string name="escaladoz">拡大縮小 Z</string>
+    <string name="creartexturas">テクスチャ作成</string>
+    <string name="cerrarnoguardar">保存せずに閉じる</string>
+    <string name="texturas">テクスチャ</string>
+    <string name="normales">法線マップ (.png)</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOPEBY</string>
+    <string name="comunidad">COMMUNITY</string>
+    <string name="guardar">Save Project</string>
+    <string name="huesos">BONES</string>
+    <string name="importar">IMPORT</string>
+    <string name="intencidadluz">Light Intensity</string>
+    <string name="intencidadsombra">Shadow Intensity</string>
+    <string name="lluvia">Rain</string>
+    <string name="luz">LIGHT</string>
+    <string name="mas">MORE</string>
+    <string name="mejoras">UPDATES &amp; BUGS</string>
+    <string name="mundo">World</string>
+    <string name="nieve">Snow</string>
+    <string name="nombre_proyecto">PROJECT NAME</string>
+    <string name="nuevo_proyecto">NEW PROJECT</string>
+    <string name="objetos">OBJECTS</string>
+    <string name="particulas">Particles</string>
+    <string name="produccion">Render Video</string>
+    <string name="proyectos">PROJECTS</string>
+    <string name="shader">Edit Shader</string>
+    <string name="shaderdos">No Shadow</string>
+    <string name="shadertres">Anime Shader</string>
+    <string name="shaderuno">Realistic Shader</string>
+    <string name="configuracionluzrgb">Configure Light</string>
+    <string name="configuracionsombrargb">Configure Shadow</string>
+    <string name="intencidadluzdos">Light Intensity</string>
+    <string name="intencidadsombrados">Shadow Intensity</string>
+    <string name="animar">ANIMATE</string>
+    <string name="editarobjetos">Edit Objects</string>
+    <string name="trasladacionx">Translate X</string>
+    <string name="trasladaciony">Translate Y</string>
+    <string name="trasladacionz">Translate Z</string>
+    <string name="rotadox">Rotate X</string>
+    <string name="rotadoy">Rotate Y</string>
+    <string name="rotadoz">Rotate Z</string>
+    <string name="escaladox">Scale X</string>
+    <string name="escaladoy">Scale Y</string>
+    <string name="escaladoz">Scale Z</string>
+    <string name="creartexturas">Create Textures</string>
+    <string name="cerrarnoguardar">Close Without Saving</string>
+    <string name="texturas">Textures</string>
+    <string name="normales">Normals (.png)</string>
+</resources>

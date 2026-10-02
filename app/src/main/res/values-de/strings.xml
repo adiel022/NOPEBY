@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOPEBY</string>
+    <string name="comunidad">COMMUNITY</string>
+    <string name="guardar">Projekt Speichern</string>
+    <string name="huesos">KNOCHEN</string>
+    <string name="importar">IMPORTIEREN</string>
+    <string name="intencidadluz">Lichtintensität</string>
+    <string name="intencidadsombra">Schattenintensität</string>
+    <string name="lluvia">Regen</string>
+    <string name="luz">LICHT</string>
+    <string name="mas">MEHR</string>
+    <string name="mejoras">UPDATES &amp; BUGS</string>
+    <string name="mundo">Welt</string>
+    <string name="nieve">Schnee</string>
+    <string name="nombre_proyecto">PROJEKTNAME</string>
+    <string name="nuevo_proyecto">NEUES PROJEKT</string>
+    <string name="objetos">OBJEKTE</string>
+    <string name="particulas">Partikel</string>
+    <string name="produccion">Video Erstellen</string>
+    <string name="proyectos">PROJEKTE</string>
+    <string name="shader">Shader Bearbeiten</string>
+    <string name="shaderdos">Ohne Schatten</string>
+    <string name="shadertres">Anime Shader</string>
+    <string name="shaderuno">Realistischer Shader</string>
+    <string name="configuracionluzrgb">Licht Konfigurieren</string>
+    <string name="configuracionsombrargb">Schatten Konfigurieren</string>
+    <string name="intencidadluzdos">Lichtintensität</string>
+    <string name="intencidadsombrados">Schattenintensität</string>
+    <string name="animar">ANIMIEREN</string>
+    <string name="editarobjetos">Objekte Bearbeiten</string>
+    <string name="trasladacionx">Verschiebung X</string>
+    <string name="trasladaciony">Verschiebung Y</string>
+    <string name="trasladacionz">Verschiebung Z</string>
+    <string name="rotadox">Drehung X</string>
+    <string name="rotadoy">Drehung Y</string>
+    <string name="rotadoz">Drehung Z</string>
+    <string name="escaladox">Skalierung X</string>
+    <string name="escaladoy">Skalierung Y</string>
+    <string name="escaladoz">Skalierung Z</string>
+    <string name="creartexturas">Texturen Erstellen</string>
+    <string name="cerrarnoguardar">Schließen Ohne Speichern</string>
+    <string name="texturas">Texturen</string>
+    <string name="normales">Normalen (.png)</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/transparent"
+    android:layout_width="100dp"
+    android:layout_height="50dp">
+    <ImageButton
+        android:id="@+id/b1"
+        android:background="@drawable/atras"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="5dp"/>
+    <ImageButton
+        android:textColor="@color/blanco"
+        android:id="@+id/b2"
+        android:background="@drawable/adelante"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="5dp"/>
+</LinearLayout>

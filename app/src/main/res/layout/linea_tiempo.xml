@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="600dp"
+    android:layout_height="60dp"
+    android:background="@color/negro">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"  >
+
+        <ImageButton
+            android:id="@+id/b0"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/play"
+            android:layout_marginLeft="5dp" />
+
+        <ImageButton
+            android:id="@+id/b1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/v"
+            android:layout_marginLeft="5dp" />
+
+        <ImageButton
+            android:id="@+id/b2"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/borrar"
+            android:layout_marginLeft="5dp" />
+
+        <ImageButton
+            android:id="@+id/b3"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/x"
+            android:layout_marginLeft="5dp" />
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycler_timeline"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:clipToPadding="false" />
+
+            <!-- Marcador central -->
+            <View
+                android:layout_width="2dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:background="@color/rojo" />
+        </FrameLayout>
+
+    </LinearLayout>
+
+</FrameLayout>

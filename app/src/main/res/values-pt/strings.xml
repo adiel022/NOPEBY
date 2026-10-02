@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOPEBY</string>
+    <string name="comunidad">COMUNIDADE</string>
+    <string name="guardar">Salvar Projeto</string>
+    <string name="huesos">OSSOS</string>
+    <string name="importar">IMPORTAR</string>
+    <string name="intencidadluz">Intensidade da Luz</string>
+    <string name="intencidadsombra">Intensidade da Sombra</string>
+    <string name="lluvia">Chuva</string>
+    <string name="luz">LUZ</string>
+    <string name="mas">MAIS</string>
+    <string name="mejoras">ATUALIZAÇÕES E ERROS</string>
+    <string name="mundo">Mundo</string>
+    <string name="nieve">Neve</string>
+    <string name="nombre_proyecto">NOME DO PROJETO</string>
+    <string name="nuevo_proyecto">NOVO PROJETO</string>
+    <string name="objetos">OBJETOS</string>
+    <string name="particulas">Partículas</string>
+    <string name="produccion">Criar Vídeo</string>
+    <string name="proyectos">PROJETOS</string>
+    <string name="shader">Editar Shader</string>
+    <string name="shaderdos">Sem Sombra</string>
+    <string name="shadertres">Shader Anime</string>
+    <string name="shaderuno">Shader Realista</string>
+    <string name="configuracionluzrgb">Configurar Luz</string>
+    <string name="configuracionsombrargb">Configurar Sombra</string>
+    <string name="intencidadluzdos">Intensidade da Luz</string>
+    <string name="intencidadsombrados">Intensidade da Sombra</string>
+    <string name="animar">ANIMAR</string>
+    <string name="editarobjetos">Editar Objetos</string>
+    <string name="trasladacionx">Translação X</string>
+    <string name="trasladaciony">Translação Y</string>
+    <string name="trasladacionz">Translação Z</string>
+    <string name="rotadox">Rotação X</string>
+    <string name="rotadoy">Rotação Y</string>
+    <string name="rotadoz">Rotação Z</string>
+    <string name="escaladox">Escala X</string>
+    <string name="escaladoy">Escala Y</string>
+    <string name="escaladoz">Escala Z</string>
+    <string name="creartexturas">Criar Texturas</string>
+    <string name="cerrarnoguardar">Fechar Sem Salvar</string>
+    <string name="texturas">Texturas</string>
+    <string name="normales">Normais (.png)</string>
+</resources>

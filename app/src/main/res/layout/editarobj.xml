@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/negro"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:background="@color/negro"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <EditText
+                android:id="@+id/et1"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:hint="@string/trasladacionx"
+                android:textColorHint="@color/negro"
+                android:background="@color/blanco"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/negro"
+                android:layout_gravity="center_vertical"/>
+
+            <EditText
+                android:id="@+id/et2"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:hint="@string/trasladaciony"
+                android:textColorHint="@color/negro"
+                android:background="@color/blanco"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/negro"
+                android:layout_gravity="center_vertical"/>
+
+            <EditText
+                android:id="@+id/et3"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:hint="@string/trasladacionz"
+                android:textColorHint="@color/negro"
+                android:background="@color/blanco"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/negro"
+                android:layout_gravity="center_vertical"/>
+
+            <EditText
+                android:id="@+id/et4"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:hint="@string/rotadox"
+                android:textColorHint="@color/negro"
+                android:background="@color/blanco"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/negro"
+                android:layout_gravity="center_vertical"/>
+
+            <EditText
+                android:id="@+id/et5"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:hint="@string/rotadoy"
+                android:textColorHint="@color/negro"
+                android:background="@color/blanco"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/negro"
+                android:layout_gravity="center_vertical"/>
+
+            <EditText
+                android:id="@+id/et6"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:hint="@string/rotadoz"
+                android:textColorHint="@color/negro"
+                android:background="@color/blanco"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/negro"
+                android:layout_gravity="center_vertical"/>
+
+            <EditText
+                android:id="@+id/et7"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:hint="@string/escaladox"
+                android:textColorHint="@color/negro"
+                android:background="@color/blanco"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/negro"
+                android:layout_gravity="center_vertical"/>
+
+            <EditText
+                android:id="@+id/et8"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:hint="@string/escaladoy"
+                android:textColorHint="@color/negro"
+                android:background="@color/blanco"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/negro"
+                android:layout_gravity="center_vertical"/>
+
+            <EditText
+                android:id="@+id/et9"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:hint="@string/escaladoz"
+                android:textColorHint="@color/negro"
+                android:background="@color/blanco"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/negro"
+                android:layout_gravity="center_vertical"/>
+
+            <!-- REFLEJOS Y ESPECULARIDAD DEL MESH -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="BRILLO Y REFLEJOS"
+                android:textColor="@color/blanco"
+                android:textStyle="bold"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Fuerza del Brillo"
+                android:textColor="@color/blanco"/>
+            <SeekBar
+                android:id="@+id/sb_especular_fuerza"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:max="100"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Concentración (Shininess)"
+                android:textColor="@color/blanco"/>
+            <SeekBar
+                android:id="@+id/sb_especular_brillo"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:max="128"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Visibilidad / Transparencia"
+                android:textColor="@color/blanco"/>
+            <SeekBar
+                android:id="@+id/sb_mesh_transparencia"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:max="100"/>
+
+            <!-- LUZ EMITIDA / CANCELACIÓN DE SOMBRA -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="LUZ EMITIDA Y CANCELACIÓN DE SOMBRA"
+                android:textColor="@color/blanco"
+                android:textStyle="bold"
+                android:textSize="16sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Alcance / Radio de Luz"
+                android:textColor="@color/blanco"/>
+            <SeekBar
+                android:id="@+id/sb_luz_alcance"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:max="100"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Color Luz R"
+                android:textColor="@color/blanco"/>
+            <SeekBar
+                android:id="@+id/sb_luz_r"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:max="255"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Color Luz G"
+                android:textColor="@color/blanco"/>
+            <SeekBar
+                android:id="@+id/sb_luz_g"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:max="255"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Color Luz B"
+                android:textColor="@color/blanco"/>
+            <SeekBar
+                android:id="@+id/sb_luz_b"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:max="255"/>
+
+            <Button
+                android:id="@+id/b1"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:text="@string/normalescambiardifusa"
+                android:textColor="@color/negro"
+                android:background="@color/blanco"
+                android:layout_marginTop="5dp" />
+
+            <Button
+                android:id="@+id/b2"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:text="@string/normalescambiardirectas"
+                android:textColor="@color/negro"
+                android:background="@color/blanco"
+                android:layout_marginTop="5dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

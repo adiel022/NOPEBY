@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/negro"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:background="@color/negro"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/blanco"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:text="Resolución de Video" />
+
+            <RadioGroup
+                android:id="@+id/rgResolucion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <RadioButton android:id="@+id/rb144p" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/blanco" android:text="144p (256x144)" />
+                <RadioButton android:id="@+id/rb240p" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/blanco" android:text="240p (426x240)" />
+                <RadioButton android:id="@+id/rb360p" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/blanco" android:text="360p (640x360)" />
+                <RadioButton android:id="@+id/rb480p" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/blanco" android:text="480p (854x480)" />
+                <RadioButton android:id="@+id/rb720p" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/blanco" android:text="720p (HD)" />
+                <RadioButton android:id="@+id/rb1080p" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/blanco" android:text="1080p (Full HD)" />
+                <RadioButton android:id="@+id/rb2k" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/blanco" android:text="2K (1440p)" />
+                <RadioButton android:id="@+id/rb4k" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/blanco" android:text="4K (2160p)" />
+
+            </RadioGroup>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="15dp"
+                android:background="@color/gris" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:textColor="@color/blanco"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:text="Fotogramas por segundo (FPS)" />
+
+            <RadioGroup
+                android:id="@+id/rgFPS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp" >
+
+                <RadioButton android:id="@+id/rb15fps" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/blanco" android:text="15 FPS" />
+                <RadioButton android:id="@+id/rb24fps" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/blanco" android:text="24 FPS" />
+                <RadioButton android:id="@+id/rb30fps" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/blanco" android:text="30 FPS" />
+                <RadioButton android:id="@+id/rb60fps" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/blanco" android:text="60 FPS" />
+                <RadioButton android:id="@+id/rb120fps" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textColor="@color/blanco" android:text="120 FPS" />
+
+            </RadioGroup>
+
+            <Button
+                android:id="@+id/btnProduccion"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/blanco"
+                android:layout_marginTop="25dp"
+                android:textColor="@color/negro"
+                android:textStyle="bold"
+                android:text="@string/produccion" />
+
+            <TextView
+                android:id="@+id/tvProgreso"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/blanco"
+                android:textSize="14sp"
+                android:visibility="gone" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

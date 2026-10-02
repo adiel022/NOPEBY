@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:paddingRight="10dp">
+
+        <TextView
+            android:id="@+id/text_segundo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/blanco"
+            android:textSize="10sp"
+            android:text="0" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="20dp"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginTop="2dp"
+            android:background="@color/blanco" />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/marca_verde"
+        android:layout_width="2dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:background="#00FF00"
+        android:visibility="gone" />
+
+</FrameLayout>
